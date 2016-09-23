@@ -1,0 +1,34 @@
+Padrão de Projeto: Proxy
+
+Tipo: Estrutural
+Esbopo: Classe
+
+
+Definição GOF:
+Fornece um substituição de um objeto para que outro objeto possa ter acesso ao mesmo.
+
+link: http://www.dofactory.com/net/proxy-design-pattern
+
+
+Participantes:
+
+Subject: Define uma interface para o objeto concreto.
+
+RealSubject: Objeto concreto com a interface implementada (Subject).
+
+Proxy: Mantém uma referência do objeto concreto internamente para utilizar a interface (Subject) como se fosse o próprio objeto concreto.
+
+Benefícios:
+
+Permite utilizar uma referência do objeto final que oculta a complexidade de objetos aos clientes;
+
+Possibilita implementar um nível maior de securança ao acessar o objeto final;
+
+EX: Acessar métodos remotos de um webService.
+
+Contras:
+
+Cria uma nível a mais de abstração aos objetos finais. Por isso deve-se utilizar com cautela, para evitar complexidades desnecessárias ao sistema.
+
+
+
