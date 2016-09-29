@@ -1,0 +1,6 @@
+https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project#tab=OWASP_Top_10_for_2013
+
+https://www.owasp.org/index.php/Top_10_2013-A1-Injection
+
+
+https://www.youtube.com/watch?v=C5PQ86nWMkM
