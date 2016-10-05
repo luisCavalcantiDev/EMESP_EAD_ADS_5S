@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minhas Tarefas</string>
+    <string name="logo">Livro - Capítulo 4 - Minhas Tarefas</string>
+    <string name="main_login">Login</string>
+    <string name="main_senha">Senha</string>
+    <string name="main_entrar">Entrar</string>
+</resources>
