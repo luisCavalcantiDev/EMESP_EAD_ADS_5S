@@ -4,4 +4,6 @@
     <string name="main_login">Login</string>
     <string name="main_senha">Senha</string>
     <string name="main_entrar">Entrar</string>
+    <string name="tarefa_descricao">Digite a descrição da Tarefa</string>
+    <string name="tarefa_adicionar">ADICIONAR</string>
 </resources>

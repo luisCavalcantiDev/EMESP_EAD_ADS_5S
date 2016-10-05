@@ -41,6 +41,7 @@
         android:layout_height="wrap_content"
         android:text="@string/main_entrar"
         android:layout_below="@id/txtSenha"
-        android:textSize="20sp"/>
+        android:textSize="20sp"
+        android:onClick="entrar"/>
 
 </RelativeLayout>
