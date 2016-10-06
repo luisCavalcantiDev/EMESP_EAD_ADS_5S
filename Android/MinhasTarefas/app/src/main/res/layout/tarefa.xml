@@ -13,7 +13,8 @@
         android:id="@+id/btnTarefa"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/tarefa_adicionar"/>
+        android:text="@string/tarefa_adicionar"
+        android:onClick="adicionarTarefas"/>
     
     <ListView
         android:id="@+id/listTarefas"
