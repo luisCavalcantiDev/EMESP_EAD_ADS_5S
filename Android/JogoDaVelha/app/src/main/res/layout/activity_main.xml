@@ -1,0 +1,113 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="150dp">
+
+        <ImageView
+            android:id="@+id/ImageView01"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:onClick="selecionar">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/ImageView02"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:onClick="selecionar"
+            android:layout_marginLeft="55dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/ImageView03"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:onClick="selecionar"
+            android:layout_marginLeft="55dp">
+        </ImageView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="25dp">
+
+        <ImageView
+            android:id="@+id/ImageView04"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:onClick="selecionar">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/ImageView05"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:onClick="selecionar"
+            android:layout_marginLeft="55dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/ImageView06"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:onClick="selecionar"
+            android:layout_marginLeft="55dp">
+        </ImageView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="25dp">
+
+        <ImageView
+            android:id="@+id/ImageView07"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:onClick="selecionar">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/ImageView08"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:onClick="selecionar"
+            android:layout_marginLeft="55dp">
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/ImageView09"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:onClick="selecionar"
+            android:layout_marginLeft="55dp">
+        </ImageView>
+    </LinearLayout>
+
+</LinearLayout>
