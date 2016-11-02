@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeusProdutos</string>
+    <string name="total">Total:</string>
+    <string name="novo_produto">Novo Produto</string>
+    <string name="nome">Nome</string>
+    <string name="preco">Preço</string>
+    <string name="imagem">Imagem</string>
+    <string name="procurar_imagem">Procurar Imagem</string>
+    <string name="salvar">Salvar</string>
+</resources>
