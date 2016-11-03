@@ -22,7 +22,7 @@ public class ValidadorXmlConfig implements IValidadorXml {
 	    }
 
 	} catch (Exception e) {
-	    throw new Exception("Erro parse XML --> Config: XML: " + xml);
+	    throw new Exception("Erro parse XML: " + e.getMessage() + " --> Config: XML: " + xml);
 	}
 
 	return xmlToConfig;
