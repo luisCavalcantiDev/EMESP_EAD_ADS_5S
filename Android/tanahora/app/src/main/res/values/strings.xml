@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tá na hora</string>
+    <string name="novo">Novo</string>
+    <string name="tarefa">Tarefa</string>
+    <string name="inicio">Inicio</string>
+    <string name="fim">Fim</string>
+    <string name="categoria">Categoria</string>
+    <string name="salvar">Salvar</string>
+    <array name="categorias">
+        <item>Trabalho</item>
+        <item>Estudos</item>
+        <item>Diversão</item>
+    </array>
+</resources>
